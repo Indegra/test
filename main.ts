@@ -8,6 +8,7 @@ const office = {
         avgSallary:1200000
     }
 }
+console.log("Новая ветка")
 
 console.log(Object.entries(office))
 let avgSallary = 0
